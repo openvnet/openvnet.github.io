@@ -4,10 +4,15 @@ title: Blog Posts
 ---
 
 <div id="home">
+  <p>OpenVNet is an Open Source Project for creating an Edge Overlaied Virtual Networks. License under LGPL3.</p>
   <h2><i class="icon-bookmark"></i> Blog Posts</h2>
   <ul id="blog-posts" class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <hr/>
+  <h2><i class="icon-bookmark"></i> Who Uses This Product?</h2>
+  <a href="http://www.nec.com"><img width="382" height="43" src="/assets/images/NEC_Logo.gif" alt="NEC Corporation" /></a> 
+  <a href="http://axsh.jp"><img width="80" height="80" src="/assets/images/axsh_Logo.png" alt="Axsh Co." /></a>
 </div>
