@@ -4,6 +4,10 @@ url: http://openvnet.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, Rakefile, .gitignore]
 
+# Pagenation
+pagenate: 5
+paginate_path: "post/page:num"
+
 # Theme customization - please change from the defaults!
 theme:
   # Color for top bar, links, etc
