@@ -2,7 +2,7 @@
 pygments: true
 url: http://openvnet.com
 lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore]
+exclude: [LICENSE, CNAME, README.md, Rakefile, .gitignore]
 
 # Theme customization - please change from the defaults!
 theme:
@@ -21,7 +21,7 @@ theme:
   tagline: "IaaS, virtual data center, virtual machine, virtual server, virtual network, virtual storage"
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-814567-9
 
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: false
