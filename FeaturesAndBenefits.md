@@ -25,7 +25,7 @@ description: ""
 
 <tr><td rowspan="2">Network Services</td>
     <td>DHCP</td><td>Providing a high scalable IP address distribution method</td><td></td></tr>
-<tr><td>DNS</td><td></td><td></td></tr>
+<tr><td>DNS</td><td>(Not yet)</td><td></td></tr>
 
 <tr><td rowspan="1">Security</td>
     <td>Security Groups</td><td>Dynamic firewall system</td><td></td></tr>
