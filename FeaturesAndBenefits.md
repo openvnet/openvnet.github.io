@@ -9,7 +9,7 @@ description: ""
 
 <table>
 <thead>
-<tr><th>Categoly</th><th>Function</th><th>Description</th><th>Benefit</th></tr>
+<tr><th>Category</th><th>Function</th><th>Description</th><th>Benefit</th></tr>
 </thead>
 <tbody>
 
