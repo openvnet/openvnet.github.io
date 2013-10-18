@@ -15,8 +15,8 @@ description: ""
 
 <tr><td rowspan="3">Multitenant L2 Network</td>
     <td>MAC2MAX</td><td>High speed transfering method on top of physical L2 network</td><td></td></tr>
-<tr><td>GRE Tunnel</td><td>Over L3</td><td></td></tr>
-<tr><td>VXLAN</td><td>Over L3</td><td></td></tr>
+<tr><td>GRE Tunnel</td><td>Over physical L3</td><td></td></tr>
+<tr><td>VXLAN</td><td>Over physical L3</td><td></td></tr>
 
 <tr><td rowspan="3">Virtual Network Routing</td>
     <td>Router</td><td>To control packets between multitenanted L2 networks</td><td></td></tr>
