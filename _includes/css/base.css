@@ -347,9 +347,9 @@ table th
 {
 	font-size: 14px;
 	font-weight: normal;
-	color: #039;
+	color: #4a2088;
 	padding: 10px 8px;
-	border-bottom: 2px solid #6678b1;
+	border-bottom: 2px solid #7866b1;
 }
 table td
 {
@@ -360,6 +360,6 @@ table td
 }
 table tbody tr:hover td
 {
-	color: #009;
+	color: #4a2088;
 }
 
