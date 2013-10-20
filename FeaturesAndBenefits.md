@@ -14,7 +14,7 @@ description: ""
 <tbody>
 
 <tr><td rowspan="3">Multitenant L2 Network</td>
-    <td>MAC2MAX</td><td>High speed transfering method on top of physical L2 network</td><td></td></tr>
+    <td>MAC2MAC</td><td>High speed transfering method on top of physical L2 network</td><td></td></tr>
 <tr><td>GRE Tunnel</td><td>Over physical L3</td><td></td></tr>
 <tr><td>VXLAN</td><td>Over physical L3</td><td></td></tr>
 
